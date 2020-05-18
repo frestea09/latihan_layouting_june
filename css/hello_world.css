@@ -1,0 +1,12 @@
+
+#container #satu{
+    background-color: greenyellow;
+}
+#container #satu ul li{
+    display: inline;
+}
+#container #satu ul li a{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}

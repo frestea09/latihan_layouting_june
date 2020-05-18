@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+}
+#kotakSatu{
+    background-color: red;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    border: 1px;
+}
+#kotakDua{
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    border: 5px;
+}
+#kotakKetiga{
+    background-color: green;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    border: 10px pink;
+}
+#kotakSatu,#kotakDua,#kotakKetiga{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}

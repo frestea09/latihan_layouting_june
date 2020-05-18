@@ -1,0 +1,31 @@
+body{
+    background-color:white;
+}
+body #container{
+    background-color: grey;
+    width: 500px;
+    height: 200px;
+    border:10px bold;
+    margin-left: auto;
+    margin-right: auto;
+}
+#koktakPertama{
+    width: 90px;
+    height: 100px;
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+}
+#kotakKedua{
+    width: 90px;
+    height: 100px;
+    background-color: rebeccapurple;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+
